@@ -1,0 +1,8 @@
+ccxt==4.2.80
+pandas==2.2.1
+numpy==1.26.4
+firebase-admin==6.2.0
+python-dotenv==1.0.0
+scikit-learn==1.4.2
+requests==2.31.0
+schedule==1.2.1
